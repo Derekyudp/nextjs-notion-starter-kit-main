@@ -53,13 +53,13 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
+      title: 'About Myself',
       pageId: 'd1cb5eda0bee4af492238bf3dcba104f'
     },
-    {
-      title: 'Contact',
-      pageId: '297bb77f4eca4965bc78665b25d724ab'
-    },
+    // {
+    //   title: 'Contact',
+    //   pageId: '297bb77f4eca4965bc78665b25d724ab'
+    // },
     { title:'Home',
       pageId:'55da664576794e0c8f2392a3c43a7e75'
     }
